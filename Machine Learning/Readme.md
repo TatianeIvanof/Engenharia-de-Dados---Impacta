@@ -12,10 +12,10 @@ Ajudar uma equipe de RH a identificar pessoas que podem deixar a empresa. A equi
 
 Para este módulo, foi feita uma análise de dados utilizando técnicas de Machine Learning no ambiente do Colab. O projeto incluiu as seguintes etapas:
 
-1. **Preparação dos Dados:** Coleta e limpeza dos dados do mercado.
+1. **Preparação dos Dados:** Coleta e limpeza dos dados.
 2. **Análise Exploratória:** Exploração detalhada dos dados para identificar padrões e tendências.
-3. **Modelagem ML:** Implementação de algoritmos de Machine Learning para previsão de tendências de mercado.
-4. **Avaliação do Modelo:** Avaliação da eficácia do modelo e otimização dos resultados.
+3. **Modelagem:** Implementação de algoritmos de Machine Learning para previsão de tendências.
+4. **Avaliação do Modelo - Deploy:** Avaliação da eficácia do modelo e otimização dos resultados.
 
 ### Bibliotecas
 
