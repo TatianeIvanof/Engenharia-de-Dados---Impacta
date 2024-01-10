@@ -31,16 +31,14 @@ Este repositório contém informações e recursos relacionados ao curso de Enge
 - Power BI 2019
 - ETL na Prática - Como Trabalhar com Dados
 - Fundamentos de Machine Learning na Prática
- . Neste módulo, foi necessário realizar um projeto prático utilizando Python no Colab. O projeto esta na pasta...
+  - Neste módulo, foi necessário realizar um projeto prático utilizando Python no Colab. O projeto esta na pasta...
  
 - Big Data - Introdução e Oportunidades
 - SQL 2016 - Criando Sistemas de Banco de Dados
 
-
 ### Em Andamento
 - Power BI 2019
-- - Big Data com Hadoop - Fundamentos
-
+- Big Data com Hadoop - Fundamentos
 
 ### Não Iniciado
 - MongoDB - Introdução Prática
