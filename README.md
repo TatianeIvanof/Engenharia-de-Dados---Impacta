@@ -11,19 +11,19 @@ Este repositório contém informações e recursos relacionados ao curso de Enge
 
 ### Módulos Online
 
-1. **`Big Data/` - Introdução e Oportunidades**
-2. **`SQL 2016/` - Criando Sistemas de Banco de Dados**
-3. **`MongoDB/` - Introdução Prática**
-4. **`Power BI 2019 (online)/`** 
-5. **`ETL na Prática/` - Como Trabalhar com Dados**
-6. **`Data Warehouse/` - Fundamentos e Implementação**
-7. **`Fundamentos de Machine Learning na Prática/`**
-8. **`Big Data com Hadoop/` - Fundamentos**
-9. **`Conhecendo o R/`: Análise de Dados na Prática**
-10. **`Projeto de Data Science/` - Da Extração ao Machine Learning**
-11. **`Produtividade e Gestão do Tempo/`**
-12. **`Liderança/` - O Essencial para o Líder**
-13. **`Jira Software/` - Gestão Ágil de Projetos e Operações**
+1. **`Big Data` - Introdução e Oportunidades**
+2. **`SQL 2016` - Criando Sistemas de Banco de Dados**
+3. **`MongoDB` - Introdução Prática**
+4. **`Power BI 2019`** 
+5. **`ETL na Prática` - Como Trabalhar com Dados**
+6. **`Data Warehouse` - Fundamentos e Implementação**
+7. **`Fundamentos de Machine Learning na Prática`**
+8. **`Big Data com Hadoop` - Fundamentos**
+9. **`Conhecendo o R`: Análise de Dados na Prática**
+10. **`Projeto de Data Science` - Da Extração ao Machine Learning**
+11. **`Produtividade e Gestão do Tempo`**
+12. **`Liderança` - O Essencial para o Líder**
+13. **`Jira Software` - Gestão Ágil de Projetos e Operações**
 
 ## Status do Curso
 
